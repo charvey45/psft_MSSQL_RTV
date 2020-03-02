@@ -1,0 +1,17 @@
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\bin\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.exe
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\bin\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.deps.json
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\bin\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.runtimeconfig.json
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\bin\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.runtimeconfig.dev.json
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\bin\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.dll
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\bin\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.pdb
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.csprojAssemblyReference.cache
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\App.g.cs
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV_MarkupCompile.cache
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV_MarkupCompile.lref
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.g.resources
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.AssemblyInfoInputs.cache
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.AssemblyInfo.cs
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.dll
+C:\sourcecode\PSFT_MSSQL_RTV\PSFT_MSSQL_RTV\obj\Debug\netcoreapp3.1\PSFT_MSSQL_RTV.pdb
