@@ -20,10 +20,12 @@ namespace PSFT_MSSQL_RTV
 	/// </summary>
 	public partial class MainWindow : Window
 	{
+		CaptureController Controller;
 		public MainWindow()
 		{
 			InitializeComponent();
 			CaptureStage StateHolder = CaptureStage.Instance;
+			this.Controller = new CaptureController();
 			StateHolder.State = CaptureStates.Manual;
 		}
 
@@ -54,18 +56,17 @@ namespace PSFT_MSSQL_RTV
 
 		private void StartAutoCaputer()
 		{
-			throw new NotImplementedException();
+			this.Controller.AutoCapture(true);
 		}
 
 		private void StopAutoCapture()
 		{
-			throw new NotImplementedException();
+			this.Controller.AutoCapture(false);
 		}
 
 		private void Capture()
 		{
-			throw new NotImplementedException();
-			
+			this.Controller.Capture();
 		}
 
 		private void AutoCaptureFrequencySlider_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)

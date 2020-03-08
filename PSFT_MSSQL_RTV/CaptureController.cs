@@ -4,11 +4,11 @@ using System.Text;
 using System.Timers;
 namespace PSFT_MSSQL_RTV
 {
-	class CaptureController
+	public class CaptureController
 	{
 		Timer AutoCaptuerTimer;
 
-		CaptureController()
+		public CaptureController()
 		{
 			AutoCaptuerTimer = new Timer();
 			AutoCaptuerTimer.Elapsed += OnTimedEvent; 
@@ -18,7 +18,12 @@ namespace PSFT_MSSQL_RTV
 
 		private static void OnTimedEvent(Object source, System.Timers.ElapsedEventArgs e)
 		{
-			Capture();
+			throw new NotImplementedException();
+		}
+
+		internal void AutoCapture(bool v)
+		{
+			throw new NotImplementedException();
 		}
 	}
 }

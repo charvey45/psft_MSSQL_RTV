@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\sourcecode\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj": {}
+    "C:\\sourcecode\\Repos\\psft_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj": {}
   },
   "projects": {
-    "c:\\sourcecode\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj": {
+    "C:\\sourcecode\\Repos\\psft_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\sourcecode\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj",
+        "projectUniqueName": "C:\\sourcecode\\Repos\\psft_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj",
         "projectName": "PSFT_MSSQL_RTV",
-        "projectPath": "c:\\sourcecode\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj",
-        "packagesPath": "C:\\Users\\charv\\.nuget\\packages\\",
-        "outputPath": "c:\\sourcecode\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV\\obj\\",
+        "projectPath": "C:\\sourcecode\\Repos\\psft_MSSQL_RTV\\PSFT_MSSQL_RTV\\PSFT_MSSQL_RTV.csproj",
+        "packagesPath": "C:\\Users\\christopher.harvey\\.nuget\\packages\\",
+        "outputPath": "C:\\sourcecode\\Repos\\psft_MSSQL_RTV\\PSFT_MSSQL_RTV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\charv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\christopher.harvey\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
